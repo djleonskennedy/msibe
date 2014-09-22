@@ -1,7 +1,7 @@
 msibe
 =====
 
-allows to extrat binary data to file
+allows to extract binary data to file
 
 MSI Binary Extractor (Transform.mst)
 
